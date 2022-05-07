@@ -1,0 +1,12 @@
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\bin\Debug\Kargo_Otomasyon.exe.config
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\bin\Debug\Kargo_Otomasyon.exe
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\bin\Debug\Kargo_Otomasyon.pdb
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.Form1.resources
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.Properties.Resources.resources
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.csproj.GenerateResource.cache
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.exe
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.pdb
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.Form2.resources
+C:\Users\sarbi\source\repos\Kargo_Otomasyon\Kargo_Otomasyon\obj\Debug\Kargo_Otomasyon.Form3.resources
